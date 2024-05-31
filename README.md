@@ -1,4 +1,3 @@
-Certainly! Here's a well-formatted version of your text for the `README.md` file:
 
 ---
 
